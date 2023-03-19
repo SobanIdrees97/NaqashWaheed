@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NaqashWaheed
+- 👋 Hi, I’m @SobanIdrees
 - 👀 I’m interested in Development
 - 🌱 I’m currently learning New Languages and Platforms
 - 💞️ I’m looking to collaborate on Intresting Projects
